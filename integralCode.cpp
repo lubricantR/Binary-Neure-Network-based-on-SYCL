@@ -1,10 +1,3 @@
-%%writefile lab/matrixmul_16x16_localmem.cpp
-//==============================================================
-// Copyright © Intel Corporation
-//
-// SPDX-License-Identifier: MIT
-// =============================================================
-
 
 #include <sycl/sycl.hpp>
 #include <iomanip>
